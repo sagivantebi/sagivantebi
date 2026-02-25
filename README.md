@@ -6,6 +6,7 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 ~ Currently in Uni, pursuing my PhD in Software and Information Systems Engineering - Ben Gurion University
 
 ~ M.Sc. graduate in Software and Information Systems Engineering - Ben Gurion University
+
 ~ B.Sc graduate in Computer Science - Bar Ilan University
 ##
 
