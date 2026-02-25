@@ -1,15 +1,12 @@
 # Hello there :wave:
 
-#### I'm Sagiv, and I'm a Data Scientist Specializing In LLMs and Cybersecurity⚡🔭
+#### I'm Sagiv, and I'm an AI Scientist Specializing In LLMs and Cybersecurity⚡🔭
 My experience includes coding using Python, Java, C++, C, and many more. Over the course of my career, I have designed and developed efficient and scalable solutions using my expertise in data structures, algorithms, and software architecture principles.
 
-~ In my current role, I specialize in LLMs Cybersecurity as a Data Scientist at CBG.
+~ Currently in Uni, pursuing my PhD in Software and Information Systems Engineering - Ben Gurion University
 
-~ Currently in Uni, studying M.Sc in data system engineering at Ben Gurion University.
-
-~ B.Sc in Computer Science at Bar Ilan University
-
-<!-- ~ I'm currently working on adding random features to a fork of XV6 for Operating Systems class. -->
+~ M.Sc. graduate in Software and Information Systems Engineering - Ben Gurion University
+~ B.Sc graduate in Computer Science - Bar Ilan University
 ##
 
 ###
@@ -23,18 +20,7 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
  # Projects in different programming languages
  [![Java](Logos/java_100.png)][2]  [![C++](Logos/c++_100.png)][3]   [![C](Logos/c_100.png)][5]   [![JS](Logos/js_100.png)][8]
 
-##### Random things about yours truly:
-* Currently I work at CBG - AI Researcher Specializing In Cybersecurity.
-* Also working at the Cyber Education Center in Magshimim as a Project Leader.
-* Participates in many hackathons.
-* Toga's Hackathon finalist.
-* Scored 100 in the OOP and Advanced Programming courses, 93 in Algorithms.
 
-
-
-<!-- ##
-💬 Ask me about why Unholy Bobas are the best dampened switch in existence. Or just any entry keyboard question because I've been using entry custom boards for the past 3 years.
- -->
 ### Reach me:
 
 [![LinkedIn](Logos/LinkedIn.png)][1]
@@ -52,18 +38,3 @@ My experience includes coding using Python, Java, C++, C, and many more. Over th
 [11]: https://github.com/sagivantebi/Cloud_Simulator-Python
 [12]: https://github.com/sagivantebi/Web_Crawler-Python
 [13]: https://github.com/sagivantebi/DNS_Spoofing
-
-<!--
-**ThatGuyVanquish/ThatGuyVanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
