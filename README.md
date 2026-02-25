@@ -3,11 +3,12 @@
 #### I'm Sagiv, and I'm an AI Scientist Specializing In LLMs and Cybersecurity⚡🔭
 My experience includes coding using Python, Java, C++, C, and many more. Over the course of my career, I have designed and developed efficient and scalable solutions using my expertise in data structures, algorithms, and software architecture principles.
 
-~ Currently in Uni, pursuing my PhD in Software and Information Systems Engineering - Ben Gurion University
+~ 🎓 Ph.D. candidate in Software and Information Systems Engineering - Ben Gurion University
 
-~ M.Sc. graduate in Software and Information Systems Engineering - Ben Gurion University
 
-~ B.Sc graduate in Computer Science - Bar Ilan University
+~ 🎓 M.Sc. graduate in Software and Information Systems Engineering - Ben Gurion University
+
+~ 🎓 B.Sc graduate in Computer Science - Bar Ilan University
 ##
 
 ###
